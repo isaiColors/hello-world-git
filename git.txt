@@ -1,0 +1,5 @@
+git init = iniciar repositorio git en una carpeta raíz
+git status = mirar el estado (y si hay cambios) en la carpera raíz
+<nombre de archivo en rojo> = no pertenece al track de git
+git add = agrega un archivo al track de git
+git add --all = agrega todos los archivos al track e incluso los recien modifocados
