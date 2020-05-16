@@ -10,4 +10,14 @@
 
 ###### Cabecera h6
 
-Soy un readme.
+## Underline 1
+
+# Underline 2
+
+<!-- - Formato *italica*, primer forma. -->
+
+- Formato _italica_, segunda forma.
+- Formato **bold**, primera forma.
+<!-- - Formato __bold__, segunda forma. -->
+- formato ~~tachado~~, formato normal.
+- texto de `color`.
